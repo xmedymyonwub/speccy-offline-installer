@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-System+Information-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Speccy Free Installer** — Speccy is a free Windows system information tool from Piriform (makers of CCleaner). Works without internet access, no account required. Full offline installation.
+**💻 Speccy Free Installer** — Speccy is a free system information tool by Piriform that provides detailed hardware specifications for your PC. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Speccy
 
-Speccy is a free Windows system information tool from Piriform (makers of CCleaner). View detailed specifications for your CPU, RAM, motherboard, graphics card, storage drives, and operating system in a clean, organized interface. Speccy provides temperature monitoring and easy sharing of system specs — useful for hardware diagnosis, upgrade planning, and technical support.
+Speccy is a free system information tool by Piriform that provides detailed hardware specifications for your PC. It displays CPU, motherboard, RAM, graphics card, storage, and operating system information in a clean, readable format — perfect for a quick hardware audit.
 
 ---
 
 ## ❌ Problem: Speccy is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Real-Time Monitoring** — Limited compared to dedicated hardware monitoring tools
-- **Piriform/Avast Ownership** — Corporate ownership may concern privacy-focused users
-- **Paid Pro Version** — Some features in paid Speccy Professional version
+- **Windows Only** — No macOS or Linux version available
+- **Development Slowed** — Piriform acquired by Avast; update frequency has declined
+- **Limited Monitoring** — Provides a snapshot rather than real-time continuous monitoring
+- **No Export Features** — Cannot export full system reports in free version
 
 ---
 
@@ -121,7 +121,7 @@ Speccy is a free Windows system information tool from Piriform (makers of CClean
 
 ---
 
-**Speccy Free Installer** — Speccy is a free Windows system information tool from Piriform (makers of CCleaner). Install without internet connection today!
+**Speccy Free Installer** — Speccy is a free system information tool by Piriform that provides detailed hardware specifications for your PC. Install without internet connection today!
 
 <div align="center">
 
